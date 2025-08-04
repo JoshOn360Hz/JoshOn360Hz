@@ -57,6 +57,8 @@ Logbook for aviation enthusiasts to track aircraft sightings.<br>
 </tr>
 </table>
 
+## Stats
+
 <a href="https://github.com/JoshOn360Hz">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoshOn360Hz&show_icons=true" />
 </a>
