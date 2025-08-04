@@ -1,6 +1,6 @@
 # Hi there, I'm Josh! 
 
-I'm a passionate developer who loves crafting beautiful, intuitive applications with a focus on iOS development, web technologies, and UI/UX design. I enjoy building apps that solve real problems and provide delightful user experiences.
+I’m a passionate developer who loves crafting beautiful, intuitive applications with a focus on iOS development, web technologies, and UI/UX design. I enjoy building apps that solve real problems and create delightful user experiences all while upholding a strict commitment to user privacy, collecting zero data.
 
 ##  Featured iOS Apps
 
@@ -55,12 +55,9 @@ Logbook for aviation enthusiasts to track aircraft sightings.
 - **UEFN & Verse** - Unreal Engine development and scripting
 
 ##  What I Love
--  Building native iOS apps that users love
+-  Building native iOS with Swift and SwiftUI
 -  Crafting beautiful, accessible user interfaces
 -  Creating responsive web experiences
--  Exploring game development with Unreal Engine
--  Tinkering with Arduino projects
+-  Game development with Unreal Engine
 -  Bears 🐻 (you may have noticed from my profile picture)
-
-I'm constantly exploring new technologies and improving my craft. Currently diving deeper into advanced SwiftUI techniques, modern web frameworks, and expanding my knowledge in game development.
 ---
