@@ -57,10 +57,12 @@ Logbook for aviation enthusiasts to track aircraft sightings.<br>
 </tr>
 </table>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshOn360Hz&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshOn360Hz)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/JoshOn360Hz">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoshOn360Hz&show_icons=true" />
+</a>
+<a href="https://github.com/JoshOn360Hz">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshOn360Hz&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Tech Stack
 
