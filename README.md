@@ -33,16 +33,15 @@ Modern logbook for aviation enthusiasts to track aircraft sightings with photo c
 </tr>
 </table>
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Languages & Frameworks
-<div style="display: flex; gap: 2px; flex-wrap: wrap;">
-<img src="badges/Swift.png" height="28" alt="Swift">
-<img src="badges/Swiftui.png" height="28" alt="SwiftUI">
-<img src="badges/JavaScript.png" height="28" alt="JavaScript">
-<img src="badges/python.png" height="28" alt="Python">
-<img src="badges/c_cpp.png" height="28" alt="C/C++">
-</div>
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
