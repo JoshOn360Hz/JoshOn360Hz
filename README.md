@@ -58,6 +58,8 @@ Logbook for aviation enthusiasts to track aircraft sightings.<br>
 </table>
 
 ## Tech Stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshOn360Hz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Languages & Frameworks
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
