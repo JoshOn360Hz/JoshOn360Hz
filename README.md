@@ -9,7 +9,7 @@ I'm a passionate developer who loves crafting beautiful, intuitive applications 
 <td align="center" width="25%">
 <img src="App_Icons/Cumulus.png" width="60" height="60"><br>
 <strong>Cumulus</strong><br>
-Cross-Target weather app with WeatherKit integration, widgets, and beautiful liquid glass design
+A weather app with WeatherKit integration, widgets, and beautiful liquid glass design
 </td>
 <td align="center" width="25%">
 <img src="App_Icons/FlipCards.png" width="60" height="60"><br>
