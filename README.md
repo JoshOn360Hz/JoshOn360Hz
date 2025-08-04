@@ -60,6 +60,7 @@ Logbook for aviation enthusiasts to track aircraft sightings.
 -  Creating responsive web experiences
 -  Exploring game development with Unreal Engine
 -  Tinkering with Arduino projects
+-  Bears 🐻 (you may have noticed from my profile picture)
 
 I'm constantly exploring new technologies and improving my craft. Currently diving deeper into advanced SwiftUI techniques, modern web frameworks, and expanding my knowledge in game development.
 ---
