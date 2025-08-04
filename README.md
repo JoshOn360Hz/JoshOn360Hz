@@ -24,6 +24,9 @@ A weather app using WeatherKit, widgets and  liquid glass design.<br>
 Smart learning tool with themes and a quiz modes for fun studying.<br>
 <br>
 <a href="https://testflight.apple.com/join/2hBxWMNR">
+  <img src="badges/dl.png" alt="Download" width="120">
+</a><br>
+<a href="https://testflight.apple.com/join/2hBxWMNR">
   <img src="badges/beta.png" alt="Beta Download" width="120">
 </a>
 </td>
