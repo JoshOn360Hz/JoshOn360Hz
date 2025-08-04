@@ -9,22 +9,22 @@ I'm a passionate developer who loves crafting beautiful, intuitive applications 
 <td align="center" width="25%">
 <img src="App_Icons/Cumulus.png" width="60" height="60"><br>
 <strong>Cumulus</strong><br>
-A weather app with WeatherKit integration, widgets, and beautiful liquid glass design
+A weather app using WeatherKit, widgets and  liquid glass design.
 </td>
 <td align="center" width="25%">
 <img src="App_Icons/FlipCards.png" width="60" height="60"><br>
 <strong>FlipCards</strong><br>
-Smart learning tool with 30+ icons, 8 color themes, and interactive quiz modes for effective studying
+Smart learning tool with themes and a quiz modes for fun studying.
 </td>
 <td align="center" width="25%">
 <img src="App_Icons/PinBoard.png" width="60" height="60"><br>
 <strong>PinBoard</strong><br>
-Feature-rich notes app with widgets, live activities, and Dynamic Island support
+Reminders app with cursomisation, widgets and live activities.
 </td>
 <td align="center" width="25%">
 <img src="App_Icons/TailTag.png" width="60" height="60"><br>
 <strong>TailTag</strong><br>
-Modern logbook for aviation enthusiasts to track aircraft sightings with photo capture and detailed logging
+Logbook for aviation enthusiasts to track aircraft sightings.
 </td>
 </tr>
 </table>
