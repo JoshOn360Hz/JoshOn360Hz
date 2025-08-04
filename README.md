@@ -36,11 +36,13 @@ Modern logbook for aviation enthusiasts to track aircraft sightings with photo c
 ## Tech Stack
 
 ### Languages & Frameworks
+<div style="display: flex; gap: 2px; flex-wrap: wrap;">
 <img src="badges/Swift.png" height="28" alt="Swift">
 <img src="badges/Swiftui.png" height="28" alt="SwiftUI">
 <img src="badges/JavaScript.png" height="28" alt="JavaScript">
 <img src="badges/python.png" height="28" alt="Python">
 <img src="badges/c_cpp.png" height="28" alt="C/C++">
+</div>
 
 ### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
