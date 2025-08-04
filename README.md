@@ -9,22 +9,34 @@ I’m a passionate developer who loves crafting beautiful, intuitive application
 <td align="center" width="25%">
 <img src="App_Icons/Cumulus.png" width="60" height="60"><br>
 <strong>Cumulus</strong><br>
-A weather app using WeatherKit, widgets and  liquid glass design.
+A weather app using WeatherKit, widgets and  liquid glass design.<br>
+<a href="https://apps.apple.com/gb/app/cumulus/id6742735497">
+  <img src="badges/dl.png" alt="Download" width="120">
+</a>
 </td>
 <td align="center" width="25%">
 <img src="App_Icons/FlipCards.png" width="60" height="60"><br>
 <strong>FlipCards</strong><br>
-Smart learning tool with themes and a quiz modes for fun studying.
+Smart learning tool with themes and a quiz modes for fun studying.<br>
+<a href="https://testflight.apple.com/join/2hBxWMNR">
+  <img src="badges/dl.png" alt="Download" width="120">
+</a>
 </td>
 <td align="center" width="25%">
 <img src="App_Icons/PinBoard.png" width="60" height="60"><br>
 <strong>PinBoard</strong><br>
-Reminders app with cursomisation, widgets and live activities.
+Reminders app with cursomisation, widgets and live activities.<br>
+<a href="https://apps.apple.com/gb/app/pinboard-better-notes/id6747376814">
+  <img src="badges/dl.png" alt="Download" width="120">
+</a>
 </td>
 <td align="center" width="25%">
 <img src="App_Icons/TailTag.png" width="60" height="60"><br>
 <strong>TailTag</strong><br>
-Logbook for aviation enthusiasts to track aircraft sightings.
+Logbook for aviation enthusiasts to track aircraft sightings.<br>
+<a href="https://apps.apple.com/gb/app/tailtag/id6747738157">
+  <img src="badges/dl.png" alt="Download" width="120">
+</a>
 </td>
 </tr>
 </table>
