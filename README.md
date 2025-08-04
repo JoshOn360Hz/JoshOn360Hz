@@ -13,6 +13,9 @@ A weather app using WeatherKit, widgets and  liquid glass design.<br>
 <br>
 <a href="https://apps.apple.com/gb/app/cumulus/id6742735497">
   <img src="badges/dl.png" alt="Download" width="120">
+</a><br>
+<a href="https://testflight.apple.com/join/3FTY37Fg">
+  <img src="badges/beta.png" alt="Beta Download" width="120">
 </a>
 </td>
 <td align="center" width="25%">
@@ -31,6 +34,9 @@ Reminders app with cursomisation, widgets and live activities.<br>
 <br>
 <a href="https://apps.apple.com/gb/app/pinboard-better-notes/id6747376814">
   <img src="badges/dl.png" alt="Download" width="120">
+</a><br>
+<a href="https://testflight.apple.com/join/NmpwygSt">
+  <img src="badges/beta.png" alt="Beta Download" width="120">
 </a>
 </td>
 <td align="center" width="25%">
@@ -40,6 +46,9 @@ Logbook for aviation enthusiasts to track aircraft sightings.<br>
 <br>
 <a href="https://apps.apple.com/gb/app/tailtag/id6747738157">
   <img src="badges/dl.png" alt="Download" width="120">
+</a><br>
+<a href="https://testflight.apple.com/join/zXMv5qHd">
+  <img src="badges/beta.png" alt="Beta Download" width="120">
 </a>
 </td>
 </tr>
