@@ -4,28 +4,28 @@ I'm a passionate developer who loves crafting beautiful, intuitive applications 
 
 ##  Featured iOS Apps
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td align="center" width="25%">
-<img src="App_Icons/Cumulus.png" width="60" height="60"><br>
+<img src="App_Icons/Cumulus.png" width="60" height="60" style="border-radius: 13px;"><br>
 <strong>Cumulus</strong><br>
 <em>Weather App</em><br>
 Cross-Target weather app with WeatherKit integration, widgets, and beautiful liquid glass design
 </td>
 <td align="center" width="25%">
-<img src="App_Icons/FlipCards.png" width="60" height="60"><br>
+<img src="App_Icons/FlipCards.png" width="60" height="60" style="border-radius: 13px;"><br>
 <strong>FlipCards</strong><br>
 <em>Flashcard App</em><br>
 Smart learning tool with 30+ icons, 8 color themes, and interactive quiz modes for effective studying
 </td>
 <td align="center" width="25%">
-<img src="App_Icons/PinBoard.png" width="60" height="60"><br>
+<img src="App_Icons/PinBoard.png" width="60" height="60" style="border-radius: 13px;"><br>
 <strong>PinBoard</strong><br>
 <em>Note-Taking App</em><br>
 Feature-rich notes app with widgets, live activities, and Dynamic Island support
 </td>
 <td align="center" width="25%">
-<img src="App_Icons/TailTag.png" width="60" height="60"><br>
+<img src="App_Icons/TailTag.png" width="60" height="60" style="border-radius: 13px;"><br>
 <strong>TailTag</strong><br>
 <em>Aircraft Spotting App</em><br>
 Modern logbook for aviation enthusiasts to track aircraft sightings with photo capture and detailed logging
