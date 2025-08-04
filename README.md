@@ -1,6 +1,9 @@
 # Hi there, I'm Josh! 
+I’m a passionate developer who loves crafting **beautiful, intuitive applications** with a focus on **iOS development, web technologies, and UI/UX design**.  
+I enjoy building apps that **solve real problems** and **create delightful user experiences** while upholding a **strict commitment to user privacy** by collecting **zero data**.
 
-I’m a passionate developer who loves crafting beautiful, intuitive applications with a focus on iOS development, web technologies, and UI/UX design. I enjoy building apps that solve real problems and create delightful user experiences all while upholding a strict commitment to user privacy, collecting zero data.
+Check out my projects and experience on my website:  
+[**joshmansfielddevelopment.com**](https://www.joshmansfielddevelopment.com)
 
 ##  Featured iOS Apps
 
