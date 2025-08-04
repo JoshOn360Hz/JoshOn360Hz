@@ -48,6 +48,9 @@ Logbook for aviation enthusiasts to track aircraft sightings.
 ### Databases & Tools
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
+![UEFN](https://img.shields.io/badge/UEFN-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
 ### Specializations
 - **iOS Development** - Native apps with SwiftUI, Core Data, WidgetKit
