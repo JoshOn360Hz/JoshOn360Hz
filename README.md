@@ -19,6 +19,9 @@ A weather app using WeatherKit, widgets and  liquid glass design.<br>
 </a><br>
 <a href="https://testflight.apple.com/join/3FTY37Fg">
   <img src="badges/beta.png" alt="Beta Download" width="120">
+</a><br>
+<a href="https://github.com/JoshOn360Hz/CumulusApp">
+  <img src="badges/repo.png" alt="Beta Download" width="120">
 </a>
 </td>
 <td align="center" width="25%">
@@ -31,6 +34,9 @@ Smart learning tool with themes and a quiz modes for fun studying.<br>
 </a><br>
 <a href="https://testflight.apple.com/join/2hBxWMNR">
   <img src="badges/beta.png" alt="Beta Download" width="120">
+</a><br>
+<a href="https://github.com/JoshOn360Hz/FlipCardsApp">
+  <img src="badges/repo.png" alt="Beta Download" width="120">
 </a>
 </td>
 <td align="center" width="25%">
@@ -43,6 +49,9 @@ Reminders app with cursomisation, widgets and live activities.<br>
 </a><br>
 <a href="https://testflight.apple.com/join/NmpwygSt">
   <img src="badges/beta.png" alt="Beta Download" width="120">
+</a><br>
+<a href="https://github.com/JoshOn360Hz/PinBoard-App">
+  <img src="badges/repo.png" alt="Beta Download" width="120">
 </a>
 </td>
 <td align="center" width="25%">
@@ -55,6 +64,9 @@ Logbook for aviation enthusiasts to track aircraft sightings.<br>
 </a><br>
 <a href="https://testflight.apple.com/join/zXMv5qHd">
   <img src="badges/beta.png" alt="Beta Download" width="120">
+</a><br>
+<a href="https://github.com/JoshOn360Hz/TailTagApp">
+  <img src="badges/repo.png" alt="Beta Download" width="120">
 </a>
 </td>
 </tr>
