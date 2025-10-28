@@ -1,5 +1,5 @@
 # Hi there, I'm Josh! 
-I’m a passionate developer who loves crafting **beautiful, intuitive applications** with a focus on **iOS development, web technologies, and UI/UX design**.  
+I’m a developer who loves crafting **beautiful, intuitive applications** with a focus on **iOS development, web technologies, and UI/UX design**.  
 I enjoy building apps that **solve real problems** and **create delightful user experiences** while upholding a **strict commitment to user privacy** by collecting **zero data**.
 
 Check out my projects and experience on my website:  
