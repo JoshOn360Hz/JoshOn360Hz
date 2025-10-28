@@ -29,7 +29,7 @@ A weather app using WeatherKit, widgets and  liquid glass design.<br>
 <strong>FlipCards</strong><br>
 Smart learning tool with themes and a quiz modes for fun studying.<br>
 <br>
-<a href="[https://testflight.apple.com/join/2hBxWMNR](https://apps.apple.com/gb/app/flipcards-revision-made-easy/id6749154468)">
+<a href="https://testflight.apple.com/join/2hBxWMNR](https://apps.apple.com/gb/app/flipcards-revision-made-easy/id6749154468">
   <img src="badges/dl.png" alt="Download" width="120">
 </a><br>
 <a href="https://testflight.apple.com/join/2hBxWMNR">
