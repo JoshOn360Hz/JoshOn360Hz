@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build polished apps that solve real problems with thoughtful design and zero data collection by default.
+  I build open source apps that solve real problems with thoughtful design and zero data collection by default.
 </p>
 
 <p align="center">
