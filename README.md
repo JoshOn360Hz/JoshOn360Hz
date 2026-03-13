@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33.33%">
       <img src="App_Icons/Cumulus.png" width="72" height="72" alt="Cumulus app icon"><br>
       <strong>Cumulus</strong><br>
       Clean weather experience built with WeatherKit, widgets, and a liquid-glass aesthetic.<br><br>
@@ -29,7 +29,7 @@
         <img src="badges/repo.png" alt="View repository" width="120">
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33.33%">
       <img src="App_Icons/FlipCards.png" width="72" height="72" alt="FlipCards app icon"><br>
       <strong>FlipCards</strong><br>
       Smart study companion with customizable themes and quiz modes for active recall.<br><br>
@@ -40,9 +40,7 @@
         <img src="badges/repo.png" alt="View repository" width="120">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33.33%">
       <img src="App_Icons/PinBoard.png" width="72" height="72" alt="PinBoard app icon"><br>
       <strong>PinBoard</strong><br>
       Reminder and notes app with deep customization, widgets, and Live Activities support.<br><br>
@@ -53,13 +51,38 @@
         <img src="badges/repo.png" alt="View repository" width="120">
       </a>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" width="33.33%">
       <img src="App_Icons/TailTag.png" width="72" height="72" alt="TailTag app icon"><br>
       <strong>TailTag</strong><br>
       Aviation spotter logbook for recording aircraft sightings quickly and beautifully.<br><br>
       <a href="https://apps.apple.com/gb/app/tailtag/id6747738157">
         <img src="badges/dl.png" alt="Download on App Store" width="120">
+      </a>
       <a href="https://github.com/JoshOn360Hz/TailTagApp">
+        <img src="badges/repo.png" alt="View repository" width="120">
+      </a>
+    </td>
+    <td align="center" width="33.33%">
+      <img src="App_Icons/Pulse.png" width="72" height="72" alt="Pulse app icon"><br>
+      <strong>Pulse</strong><br>
+      Open source and free iOS and iPadOS diagnostics tool. Designed to test device functionality<br><br>
+      <a href="https://apps.apple.com/gb/app/pulse-mobile-diagnostics/id6757356341">
+        <img src="badges/dl.png" alt="Download on App Store" width="120">
+      </a>
+      <a href="https://github.com/JoshOn360Hz/PulseApp">
+        <img src="badges/repo.png" alt="View repository" width="120">
+      </a>
+    </td>
+    <td align="center" width="33.33%">
+      <img src="App_Icons/Moments.png" width="72" height="72" alt="Moments app icon"><br>
+      <strong>Moments</strong><br>
+      Track what matters to you, countdowns with intergrated Watch App and live activities<br><br>
+      <a href="https://apps.apple.com/gb/app/moments-countdown/id67590806391">
+        <img src="badges/dl.png" alt="Download on App Store" width="120">
+      </a>
+      <a href="https://github.com/JoshOn360Hz/MomentsApp">
         <img src="badges/repo.png" alt="View repository" width="120">
       </a>
     </td>
