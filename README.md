@@ -97,7 +97,7 @@ Logbook for aviation enthusiasts to track aircraft sightings.<br>
 ![CSS5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor=black)
 
 
 ### Databases & Tools
