@@ -14,8 +14,6 @@
   <a href="https://appsbyjosh.com"><strong>App Portfolio</strong></a>
 </p>
 
----
-
 ## Featured Apps
 
 <table>
@@ -81,8 +79,6 @@
   </tr>
 </table>
 
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -93,8 +89,6 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshOn360Hz&layout=compact&langs_count=8&hide_border=true" alt="Top languages" />
   </a>
 </p>
-
----
 
 ## Tech Stack
 
@@ -120,7 +114,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-1F2937?style=for-the-badge&logo=arduino&logoColor=F8FAFC)
 ![App_Store](https://img.shields.io/badge/App_Store-1F2937?style=for-the-badge&logo=app-store&logoColor=F8FAFC)
 
----
 
 ## Focus Areas
 
