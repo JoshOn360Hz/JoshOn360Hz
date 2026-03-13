@@ -25,9 +25,6 @@
       <a href="https://apps.apple.com/gb/app/cumulus/id6742735497">
         <img src="badges/dl.png" alt="Download on App Store" width="120">
       </a>
-      <a href="https://testflight.apple.com/join/3FTY37Fg">
-        <img src="badges/beta.png" alt="Join TestFlight" width="120">
-      </a>
       <a href="https://github.com/JoshOn360Hz/CumulusApp">
         <img src="badges/repo.png" alt="View repository" width="120">
       </a>
@@ -38,9 +35,6 @@
       Smart study companion with customizable themes and quiz modes for active recall.<br><br>
       <a href="https://apps.apple.com/gb/app/flipcards-revision-made-easy/id6749154468">
         <img src="badges/dl.png" alt="Download on App Store" width="120">
-      </a>
-      <a href="https://testflight.apple.com/join/2hBxWMNR">
-        <img src="badges/beta.png" alt="Join TestFlight" width="120">
       </a>
       <a href="https://github.com/JoshOn360Hz/FlipCardsApp">
         <img src="badges/repo.png" alt="View repository" width="120">
@@ -55,9 +49,6 @@
       <a href="https://apps.apple.com/gb/app/pinboard-better-notes/id6747376814">
         <img src="badges/dl.png" alt="Download on App Store" width="120">
       </a>
-      <a href="https://testflight.apple.com/join/NmpwygSt">
-        <img src="badges/beta.png" alt="Join TestFlight" width="120">
-      </a>
       <a href="https://github.com/JoshOn360Hz/PinBoard-App">
         <img src="badges/repo.png" alt="View repository" width="120">
       </a>
@@ -68,10 +59,6 @@
       Aviation spotter logbook for recording aircraft sightings quickly and beautifully.<br><br>
       <a href="https://apps.apple.com/gb/app/tailtag/id6747738157">
         <img src="badges/dl.png" alt="Download on App Store" width="120">
-      </a>
-      <a href="https://testflight.apple.com/join/zXMv5qHd">
-        <img src="badges/beta.png" alt="Join TestFlight" width="120">
-      </a>
       <a href="https://github.com/JoshOn360Hz/TailTagApp">
         <img src="badges/repo.png" alt="View repository" width="120">
       </a>
