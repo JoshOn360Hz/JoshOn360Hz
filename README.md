@@ -1,4 +1,4 @@
-<h1 align="center">Josh Mansfield</h1>
+<h1 align="center">Hey there, I'm Josh!</h1>
 
 <p align="center">
   iOS / Web Developer • UI/UX Focused Builder 
