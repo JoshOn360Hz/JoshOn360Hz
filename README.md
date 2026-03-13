@@ -136,4 +136,4 @@
 
 - Building thoughtful tools that make everyday tasks easier
 - Iterating on visual details until they feel effortless
-- Bears 🐻 (you may have noticed from the profile picture)
+- Bears 🐻 (you may have noticed from my profile picture)
